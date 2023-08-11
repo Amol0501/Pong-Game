@@ -1,5 +1,7 @@
 # Pong Game using C++ and Raylib Library
 
+![Screenshot (412)](https://github.com/Amol0501/Pong-Game/assets/101963499/fe9b326e-5f4d-477e-9a69-5b172609c0e4)
+
 Welcome to the Pong Game! This is a simple implementation of the classic Pong game using C++ and the Raylib library. In this game, two players can control paddles to hit the ball back and forth, aiming to score points against each other.
 
 # Installation
